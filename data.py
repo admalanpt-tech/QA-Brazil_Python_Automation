@@ -1,8 +1,7 @@
-URBAN_ROUTES_URL = 'https://cnt-96ded977-18af-4d1c-9753-ad319a59ea83.containerhub.tripleten-services.com?lng=pt'
+URBAN_ROUTES_URL = 'https://cnt-b3fde82e-8687-4867-a8d9-e0899505b670.containerhub.tripleten-services.com?lng=pt'
 ADDRESS_FROM = 'East 2nd Street, 601'
 ADDRESS_TO = '1300 1st St'
 PHONE_NUMBER = '+1 123 123 12 12'
 CARD_NUMBER = '1234 5678 9100'
 CARD_CODE = '1111'
 MESSAGE_FOR_DRIVER = 'Pare no bar de sucos'
-# Arquivo com constantes
